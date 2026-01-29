@@ -1,6 +1,6 @@
 # Hi, I'm Brien Pike 
 
-Recent UC Davis graduate with a B.S. in Statistics (Statistical Data Science track). I build clear, well‑structured data science projects focused on machine learning, statistical modeling, and reproducible analysis. Seeking early‑career roles in data science, machine learning, or analytics. 
+Recent UC Davis graduate with a B.S. in Statistics in the Statistical Data Science track. I build clear, well‑structured data science projects focused on machine learning, statistical modeling, and reproducible analysis. Seeking early‑career roles in data science, machine learning, or analytics. 
 
 ---
 
