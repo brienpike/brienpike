@@ -21,7 +21,6 @@ NLP + regression modeling on 54,000 workers’ compensation claims, including te
 ### **Alzheimer’s Risk Prediction** 
 Classification modeling using logistic regression, random forest, SVM, and ANN with full preprocessing and hyperparameter tuning pipelines. 
 **Repo:** https://github.com/brienpike/sta141c-final-proj 
-### **Additional Projects** - STA141B — (Add link once ready) - STA138 — (Add link once ready) - Web‑Scraped Restaurant vs. UberEats Pricing Analysis — (Add link once ready) 
 
 --- 
 
@@ -35,8 +34,7 @@ Classification modeling using logistic regression, random forest, SVM, and ANN w
 --- 
 
 ## 📫 Connect With Me 
-- **LinkedIn:** (Add your LinkedIn URL once your profile is ready)
-- **GitHub:** https://github.com/brienpike
+- [LinkedIn](https://www.linkedin.com/in/brien-pike-9b36a6346/)
 
 <!--
 **brienpike/brienpike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
